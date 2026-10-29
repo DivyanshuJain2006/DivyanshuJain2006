@@ -1,6 +1,4 @@
 <!-- ==================== PROFILE BANNER ==================== -->
-
-<!-- PROFILE BANNER -->
 <p align="center">
   <img
     src="header-dark.png"
@@ -8,19 +6,15 @@
     width="100%"
   />
 </p>
-
 <!-- ==================== INTRODUCTION ==================== -->
-
 <div align="center">
 
-# Hey there, I'm Divyanshu Jain 👋
+Hey there, I’m Divyanshu Jain 👋
 
-### Aspiring Software Engineer | AI Engineer
+Aspiring Software Engineer | AI Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Exploring+Generative+AI+%26+Agentic+AI+%F0%9F%A7%A0;Strengthening+DSA+%26+Problem+Solving+%F0%9F%92%BB;Turning+Ideas+Into+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG" />
-
 <br>
-
 <a href="https://github.com/DivyanshuJain2006">
   <img src="https://img.shields.io/github/followers/DivyanshuJain2006?label=Followers&style=for-the-badge&color=EF93C4&labelColor=0D1117" alt="GitHub Followers">
 </a>
@@ -28,55 +22,49 @@
   <img src="https://img.shields.io/github/stars/DivyanshuJain2006?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=0D1117" alt="GitHub Stars">
 </a>
 <img src="https://komarev.com/ghpvc/?username=DivyanshuJain2006&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS" alt="Profile Views">
-
 </div>
 
----
+⸻
 
 <!-- ==================== ABOUT ME ==================== -->
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 <table>
 <tr>
 <td width="65%" valign="top">
 
-I'm a **pre-final-year B.Tech Computer Science Engineering student specializing in AI & ML**, passionate about building intelligent applications and solving real-world problems through software.
+I’m a pre-final-year B.Tech Computer Science Engineering student specializing in AI & ML, passionate about building intelligent applications and solving real-world problems through software.
 
-- 🎓 Pursuing B.Tech in Computer Science Engineering with an AI & ML specialization.
-- 🧠 Currently learning Data Structures & Algorithms, Generative AI, and Agentic AI.
-- 🤖 Exploring AI agents, LLM-powered applications, and intelligent workflows.
-- 💻 Interested in Software Engineering and Backend Development.
-- 🚀 I enjoy learning new technologies and turning ideas into practical projects.
-- 🎯 Seeking Software Engineering and AI Engineering internship opportunities.
-- 📈 Focused on continuous learning, problem-solving, and writing better code.
+* 🎓 Pursuing B.Tech in Computer Science Engineering with an AI & ML specialization.
+* 🧠 Currently learning Data Structures & Algorithms, Generative AI, and Agentic AI.
+* 🤖 Exploring AI agents, LLM-powered applications, and intelligent workflows.
+* 💻 Interested in Software Engineering and Backend Development.
+* 🚀 I enjoy learning new technologies and turning ideas into practical projects.
+* 🎯 Seeking Software Engineering and AI Engineering internship opportunities.
+* 📈 Focused on continuous learning, problem-solving, and writing better code.
 
-**My goal:** Build impactful software that combines strong engineering fundamentals with the power of AI.
+My goal: Build impactful software that combines strong engineering fundamentals with the power of AI.
 
 </td>
 <td width="35%" align="center" valign="middle">
+<img src="https://github.com/DivyanshuJain2006.png" width="200" alt="Divyanshu Jain GitHub Avatar">
 
-<img src="https://github.com/DivyanshuJain2006.png" width="220" alt="Divyanshu Jain GitHub Avatar" style="border-radius: 50%;">
-
-<br><br>
-
-**Building. Learning. Improving.**
+Building. Learning. Improving.
 
 <br>
-
 <img src="https://img.shields.io/badge/Open%20to-Opportunities-EF93C4?style=flat-square&labelColor=0D1117" alt="Open to Opportunities">
-
 </td>
 </tr>
 </table>
 
----
+⸻
 
 <!-- ==================== TECH STACK ==================== -->
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-### Languages
+Languages
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
@@ -86,7 +74,7 @@ I'm a **pre-final-year B.Tech Computer Science Engineering student specializing 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-### Backend & Web
+Backend & Web
 
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
@@ -96,7 +84,7 @@ I'm a **pre-final-year B.Tech Computer Science Engineering student specializing 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-### DevOps & Developer Tools
+DevOps & Developer Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -106,7 +94,7 @@ I'm a **pre-final-year B.Tech Computer Science Engineering student specializing 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
 
-### AI & LLM Technologies
+AI & LLM Technologies
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
@@ -118,7 +106,7 @@ I'm a **pre-final-year B.Tech Computer Science Engineering student specializing 
   <img src="https://img.shields.io/badge/Embeddings-ED6C2C?style=for-the-badge&logoColor=white" alt="Embeddings">
 </p>
 
-### Core Concepts
+Core Concepts
 
 <p>
   <img src="https://img.shields.io/badge/Object--Oriented%20Programming-EF93C4?style=flat-square&labelColor=0D1117" alt="OOP">
@@ -127,107 +115,56 @@ I'm a **pre-final-year B.Tech Computer Science Engineering student specializing 
   <img src="https://img.shields.io/badge/Software%20Engineering-EF93C4?style=flat-square&labelColor=0D1117" alt="Software Engineering">
 </p>
 
----
+⸻
 
 <!-- ==================== GITHUB STATISTICS ==================== -->
 
-## 📊 GitHub Statistics
+📊 GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=DivyanshuJain2006&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&bg_color=0D1117"
+    src="https://github-stats-extended.vercel.app/api?username=DivyanshuJain2006&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&bg_color=0D1117&hide_border=true"
     height="180"
     alt="GitHub Statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuJain2006&layout=compact&theme=radical&title_color=FF69B4&text_color=FFFFFF&bg_color=0D1117"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=DivyanshuJain2006&layout=compact&theme=radical&title_color=FF69B4&text_color=FFFFFF&bg_color=0D1117&hide_border=true"
     height="180"
     alt="Most Used Languages"
   />
 </p>
-
-<!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
-
-## 📈 Contribution Activity
-
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshuJain2006&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-    alt="Contribution Activity Graph"
+    src="https://streak-stats.demolab.com?user=DivyanshuJain2006&theme=dark&background=0D1117&border=EF93C4&stroke=EF93C4&ring=FF69B4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
+    width="75%"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
+⸻
+
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
-## 📈 Contribution Graph Animation
+📈 Contribution Graph Animation
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DivyanshuJain2006/DivyanshuJain2006/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation">
+<img
+src=“https://raw.githubusercontent.com/DivyanshuJain2006/DivyanshuJain2006/output/github-contribution-grid-snake-dark.svg”
+alt=“Pink GitHub Contribution Snake Animation”
+width=“100%”
 
 </div>
 
-<!--
-To enable the contribution snake animation:
-
-1. Create a repository named DivyanshuJain2006.
-2. Create a GitHub Actions workflow at:
-   .github/workflows/snake.yml
-
-3. Add the following workflow:
-
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: DivyanshuJain2006
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=FF69B4
-
-      - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-4. Commit and push the workflow.
-5. Open the Actions tab and manually run "Generate Contribution Snake".
-6. Ensure the workflow has permission to write repository contents.
-7. The generated SVG files will be published to the output branch.
-
-The snake image above will work after the workflow successfully generates
-the files and publishes them to the output branch.
--->
-
----
+⸻
 
 <!-- ==================== CONNECT WITH ME ==================== -->
 
-## 🤝 Connect With Me
+🤝 Connect With Me
 
 <div align="center">
 
-I'm always happy to connect with fellow developers, exchange ideas, and explore exciting opportunities.
+I’m always happy to connect with fellow developers, exchange ideas, and explore exciting opportunities.
 
 <a href="https://www.linkedin.com/in/divyanshujain19/">
   <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn">
@@ -242,26 +179,21 @@ I'm always happy to connect with fellow developers, exchange ideas, and explore 
   <img src="https://img.shields.io/badge/GitHub-EF93C4?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub">
 </a>
 
-<br><br>
+📩 Email: divyanshujain1906@gmail.com
 
-📩 **Email:** divyanshujain1906@gmail.com
-
-💼 **Open to:** Software Engineering Internships | AI Engineering Opportunities
+💼 Open to: Software Engineering Internships | AI Engineering Opportunities
 
 </div>
 
----
+⸻
 
 <!-- ==================== FOOTER ==================== -->
-
 <div align="center">
 
-### 💗 Thanks for visiting my profile!
+💗 Thanks for visiting my profile!
 
-*Learning something new every day. Building something better every step of the way.*
+Learning something new every day. Building something better every step of the way.
 
 <br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=120&section=footer" width="100%" alt="Pink waving footer">
-
 </div>
