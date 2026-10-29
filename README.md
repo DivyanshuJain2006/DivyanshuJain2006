@@ -164,44 +164,47 @@ I'm a **pre-final-year B.Tech Computer Science Engineering student specializing 
 </div>
 
 <!-- ==================== CONNECT WITH ME ==================== -->
-
 <h2>🤝 Connect With Me</h2>
-
 <div align="center">
-
-I'm always happy to connect with fellow developers, exchange ideas, and explore exciting opportunities.
-
-<br><br>
-
+<p>
+  I'm always happy to connect with fellow developers, exchange ideas, and explore exciting opportunities.
+</p>
+<br>
 <a href="https://www.linkedin.com/in/divyanshujain19/">
   <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn">
 </a>
 <a href="https://www.instagram.com/divyanshu_j06/">
   <img src="https://img.shields.io/badge/Instagram-F8BBD0?style=for-the-badge&logo=instagram&logoColor=0D1117" alt="Instagram">
 </a>
+<a href="https://github.com/DivyanshuJain2006">
+  <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub">
+</a>
 <a href="mailto:divyanshujain1906@gmail.com">
   <img src="https://img.shields.io/badge/Personal_Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Personal Email">
 </a>
-
 <a href="mailto:divyanshu.14955@stu.upes.ac.in">
   <img src="https://img.shields.io/badge/University_Email-EF93C4?style=for-the-badge&logo=microsoftoutlook&logoColor=0D1117" alt="University Email">
-</a>
-<a href="https://github.com/DivyanshuJain2006">
-  <img src="https://img.shields.io/badge/GitHub-EF93C4?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub">
 </a>
 
 <br><br>
 
-📩 **Email:** divyanshujain1906@gmail.com
+<p>
+  📩 <strong>Personal Email:</strong>
+  <a href="mailto:divyanshujain1906@gmail.com">divyanshujain1906@gmail.com</a>
+</p>
 
-💼 **Open to:** Software Engineering Internships | AI Engineering Opportunities
+<p>
+  🎓 <strong>University Email:</strong>
+  <a href="mailto:divyanshu.14955@stu.upes.ac.in">divyanshu.14955@stu.upes.ac.in</a>
+</p>
+
+<p>
+  💼 <strong>Open to:</strong> Software Engineering Internships | AI Engineering Opportunities
+</p>
 
 </div>
 
 ---
-
-<!-- ==================== FOOTER ==================== -->
-
 <!-- ==================== FOOTER ==================== -->
 
 <div align="center">
