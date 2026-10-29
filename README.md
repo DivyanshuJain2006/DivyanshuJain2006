@@ -153,11 +153,15 @@ I'm a **pre-final-year B.Tech Computer Science Engineering student specializing 
 ## 📈 Contribution Activity
 
 <div align="center">
+
+<a href="https://github.com/DivyanshuJain2006">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivyanshuJain2006&theme=github_dark"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshuJain2006&bg_color=0D1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=false"
     width="100%"
-    alt="GitHub Profile Activity Summary"
+    alt="Divyanshu's Pink GitHub Activity Graph"
   />
+</a>
+
 </div>
 
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->
