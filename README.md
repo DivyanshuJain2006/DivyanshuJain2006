@@ -189,7 +189,7 @@ I’m always happy to connect with fellow developers, exchange ideas, and explor
 <!-- ==================== FOOTER ==================== -->
 <div align="center">
 
-💗 Thanks for visiting my profile!
+Thanks for visiting my profile!
 
 Learning something new every day. Building something better every step of the way.
 
