@@ -157,19 +157,11 @@ I'm a **pre-final-year B.Tech Computer Science Engineering student specializing 
 
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
-<h2 align="center">🐍 Contribution Graph Animation</h2>
+<h2 align="center">Contribution Graph Animation</h2>
 
 <div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/DivyanshuJain2006/DivyanshuJain2006/output/github-contribution-grid-snake-dark.svg"
-  alt="Pink GitHub Contribution Snake Animation"
-  width="100%"
->
-
+  <img src="https://raw.githubusercontent.com/DivyanshuJain2006/DivyanshuJain2006/output/github-contribution-grid-snake-dark.svg" alt="Pink GitHub Contribution Snake Animation" width="100%">
 </div>
-
----
 
 <!-- ==================== CONNECT WITH ME ==================== -->
 
