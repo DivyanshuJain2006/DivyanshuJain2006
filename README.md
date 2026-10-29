@@ -1,10 +1,13 @@
 <!-- ==================== PROFILE BANNER ==================== -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=200&section=header&text=Divyanshu%20Jain&fontSize=45&fontColor=0D1117&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20AI%20Engineering&descAlignY=55&descSize=18">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=200&section=header&text=Divyanshu%20Jain&fontSize=45&fontColor=0D1117&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20AI%20Engineering&descAlignY=55&descSize=18">
-  <img alt="Divyanshu Jain profile banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=200&section=header&text=Divyanshu%20Jain&fontSize=45&fontColor=0D1117&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20AI%20Engineering&descAlignY=55&descSize=18">
-</picture>
+<!-- PROFILE BANNER -->
+<p align="center">
+  <img
+    src="header-dark.png"
+    alt="Divyanshu Jain - Aspiring Software Engineer"
+    width="100%"
+  />
+</p>
 
 <!-- ==================== INTRODUCTION ==================== -->
 
