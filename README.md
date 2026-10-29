@@ -133,39 +133,30 @@ I'm a **pre-final-year B.Tech Computer Science Engineering student specializing 
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<a href="https://github.com/DivyanshuJain2006">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DivyanshuJain2006&show_icons=true&theme=transparent&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0&icon_color=FF69B4&border_color=EF93C4&hide_border=false&include_all_commits=true" alt="Divyanshu's GitHub Statistics">
-</a>
-
-<a href="https://github.com/DivyanshuJain2006">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuJain2006&layout=compact&theme=transparent&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0&border_color=EF93C4&hide_border=false" alt="Most Used Languages">
-</a>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=DivyanshuJain2006&theme=dark&background=0D1117&border=EF93C4&stroke=EF93C4&ring=FF69B4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Contribution Streak">
-
-</div>
-
----
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DivyanshuJain2006&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&bg_color=0D1117"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuJain2006&layout=compact&theme=radical&title_color=FF69B4&text_color=FFFFFF&bg_color=0D1117"
+    height="180"
+    alt="Most Used Languages"
+  />
+</p>
 
 <!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-<a href="https://github.com/DivyanshuJain2006">
+<p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshuJain2006&bg_color=0D1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=false"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshuJain2006&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=true"
     width="100%"
-    alt="Divyanshu's Pink GitHub Activity Graph"
+    alt="Contribution Activity Graph"
   />
-</a>
-
-</div>
+</p>
 
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
