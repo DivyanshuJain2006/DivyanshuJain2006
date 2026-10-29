@@ -180,7 +180,11 @@ I'm always happy to connect with fellow developers, exchange ideas, and explore 
   <img src="https://img.shields.io/badge/Instagram-F8BBD0?style=for-the-badge&logo=instagram&logoColor=0D1117" alt="Instagram">
 </a>
 <a href="mailto:divyanshujain1906@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email">
+  <img src="https://img.shields.io/badge/Personal_Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Personal Email">
+</a>
+
+<a href="mailto:divyanshu.14955@stu.upes.ac.in">
+  <img src="https://img.shields.io/badge/University_Email-EF93C4?style=for-the-badge&logo=microsoftoutlook&logoColor=0D1117" alt="University Email">
 </a>
 <a href="https://github.com/DivyanshuJain2006">
   <img src="https://img.shields.io/badge/GitHub-EF93C4?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub">
@@ -198,6 +202,8 @@ I'm always happy to connect with fellow developers, exchange ideas, and explore 
 
 <!-- ==================== FOOTER ==================== -->
 
+<!-- ==================== FOOTER ==================== -->
+
 <div align="center">
 
 <h3>💗 Thanks for visiting my profile!</h3>
@@ -210,6 +216,6 @@ I'm always happy to connect with fellow developers, exchange ideas, and explore 
   src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=120&section=footer"
   width="100%"
   alt="Pink waving footer"
->
+/>
 
 </div>
