@@ -169,7 +169,7 @@ I'm a **pre-final-year B.Tech Computer Science Engineering student specializing 
 
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
-## 🐍 Watch My Contributions Get Eaten!
+## 📈 Contribution Graph Animation
 
 <div align="center">
 
