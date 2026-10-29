@@ -145,18 +145,17 @@ Core Concepts
 
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
-📈 Contribution Graph Animation
+<!-- CONTRIBUTION SNAKE -->
+
+<h2 align="center">📈 Contribution Graph Animation</h2>
 
 <div align="center">
-
-<img
-src=“https://raw.githubusercontent.com/DivyanshuJain2006/DivyanshuJain2006/output/github-contribution-grid-snake-dark.svg”
-alt=“Pink GitHub Contribution Snake Animation”
-width=“100%”
-
+  <img
+    src="https://raw.githubusercontent.com/DivyanshuJain2006/DivyanshuJain2006/output/github-contribution-grid-snake-dark.svg"
+    alt="Pink GitHub Contribution Snake Animation"
+    width="100%"
+  />
 </div>
-
-⸻
 
 <!-- ==================== CONNECT WITH ME ==================== -->
 
