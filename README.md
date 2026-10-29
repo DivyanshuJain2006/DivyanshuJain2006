@@ -179,12 +179,7 @@ I'm a **pre-final-year B.Tech Computer Science Engineering student specializing 
 <a href="https://github.com/DivyanshuJain2006">
   <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub">
 </a>
-<a href="mailto:divyanshujain1906@gmail.com">
-  <img src="https://img.shields.io/badge/Personal_Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Personal Email">
-</a>
-<a href="mailto:divyanshu.14955@stu.upes.ac.in">
-  <img src="https://img.shields.io/badge/University_Email-EF93C4?style=for-the-badge&logo=microsoftoutlook&logoColor=0D1117" alt="University Email">
-</a>
+
 
 <br><br>
 
